@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d34b6e21-5fa8-4cd9-8d3e-90cf3021d15d" name="s2sahein" url="http://localhost">
+        <fileTransfer mountedRoot="C:\xampp\htdocs\cm-praxis" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
